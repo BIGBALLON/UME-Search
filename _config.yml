@@ -1,0 +1,10 @@
+# theme: jekyll-theme-minima
+theme: jekyll-theme-modernist
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      css: "/assets/css/style.css"
